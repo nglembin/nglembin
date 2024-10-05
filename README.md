@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+nyyn." alt="Typing SVG" /></a> <br>
-My name is **Nikodem**, also recognized as **nyyn**.
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
+My name is **Nikodem Glembin**, also recognized as **nyyn**.
 I am an **19-year-old developer** based in **Poland**.
 
 <h2 align="left">About me:</h2>
