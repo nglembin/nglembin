@@ -6,7 +6,7 @@ I am an **19-year-old developer** based in **Poland**.
 
 - Pronouns: He/Him
 - Languages: Polish, English
-- Location: Poland, Central Europe
+- Location: Gdańsk, Poland
 - Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
 - Website: [https://nyyn.pl/](https://nyyn.pl/)
