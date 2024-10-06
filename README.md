@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
-My name is **Nikodem Glembin**, also recognized as **nyyn**.
+My name is **Nikodem Glembin**, also known as **nyyn**.
 I am an **19-year-old developer** based in **Poland**.
 
 <h2 align="left">About me:</h2>
@@ -7,10 +7,10 @@ I am an **19-year-old developer** based in **Poland**.
 - Pronouns: He/Him
 - Languages: Polish, English
 - Location: Gdańsk, Poland
-- Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
+- Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [https://nyyn.pl/](https://nyyn.pl/)
-- Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
+- Website: [https://nglembin.pl/](https://nglembin.pl/)
+- Reach me: [https://nglembin.pl/contact.html](https://nglembin.pl/contact.html)
 
 <h2 align="left">Tech Stack:</h2>
 
