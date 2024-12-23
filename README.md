@@ -10,10 +10,10 @@ I am an **19-year-old developer** based in **Poland**.
 - Discord: nyyn
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [https://nglembin.pl/](https://nglembin.pl/)
-- Reach me: [https://nglembin.pl/contact.html](https://nglembin.pl/contact.html)
-- Instagram: [https://www.instagram.com/nglembin/](https://www.instagram.com/nglembin/)
-- Steam: [https://steamcommunity.com/id/nyynek/](https://steamcommunity.com/id/nyynek/)
+- Website: [nglembin.pl/](https://nglembin.pl/)
+- Reach me: [nglembin.pl/contact.html](https://nglembin.pl/contact.html)
+- Instagram: [instagram.com/nglembin/](https://www.instagram.com/nglembin/)
+- Steam: [steamcommunity.com/id/nyynek/](https://steamcommunity.com/id/nyynek/)
 
 <h2 align="left">Tech Stack:</h2>
 
