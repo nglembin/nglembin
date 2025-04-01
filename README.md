@@ -1,9 +1,8 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
 My name is **Nikodem Glembin**, also known as **nyyn**.  
-I’m a **developer** passionate about **AI-driven automation**, DeFi and crypto.  
-I'm also a dedicated tutor in Mathematics and English – [korki.nglembin.pl](https://korki.nglembin.pl).  
-In addition, I create modern, responsive websites for clients — [strony.nglembin.pl](https://strony.nglembin.pl).  
-Currently, I'm studying Computer Science in Poland.
+I’m a **developer from Poland**, currently studying **Computer Science** and passionate about **AI-driven automation**, DeFi and crypto.  
+I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglembin.pl), and create modern, responsive websites – [strony.nglembin.pl](https://strony.nglembin.pl).
+
 
 <h2 align="left">About me:</h2>
 
