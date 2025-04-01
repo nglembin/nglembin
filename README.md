@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
 My name is **Nikodem Glembin**, also known as **nyyn**.
-I’m a **19-year-old developer, DeFi & crypto enthusiast, and an aspiring AI automation specialist** based in **Poland**. I’m also the **owner** of [ekstrakorki.pl](https://ekstrakorki.pl/) - a Polish platform for online tutoring at the high school and primary school levels.
+I'm a **20-year-old developer and Computer Science student based in Poland, passionate about DeFi, crypto, and the future of AI-driven automation**. I'm also a **dedicated tutor** in Mathematics and English - [korki.nglembin.pl](korki.nglembin.pl). In addition, **I create modern, responsive websites** for clients — [strony.nglembin.pl](strony.nglembin.pl).
 
 <h2 align="left">About me:</h2>
 
