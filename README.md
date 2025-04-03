@@ -6,10 +6,10 @@ I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglem
 
 <h2 align="left">About me:</h2>
 
-- Pronouns: He/Him
-- Languages: Polish, English
 - Location: Gdańsk, Poland
-- Discord: nyyn
+- Languages: Polish, English
+- Timezone: Europe/Warsaw (CET / CEST)
+- Discord: @nyyn
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
 - Website: [nglembin.pl/](https://nglembin.pl/)
@@ -19,6 +19,6 @@ I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglem
 
 <h2 align="left">Tech Stack:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,cloudflare,netlify,cpp)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,cloudflare,netlify,cpp,java,)
 
 ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
