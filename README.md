@@ -9,7 +9,7 @@ I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglem
 - Location: Gdańsk, Poland
 - Languages: Polish, English
 - Timezone: Europe/Warsaw (CET / CEST)
-- Discord: @nyyn
+- Discord: @nglembin
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
 - Website: [nglembin.pl/](https://nglembin.pl/)
