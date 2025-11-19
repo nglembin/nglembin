@@ -1,4 +1,4 @@
-<img width="815" height="781" alt="image" src="https://github.com/user-attachments/assets/be2e3b59-910b-4376-bdde-aa5f8ed35155" /><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
 My name is **Nikodem Glembin**, also known as **@nglembin**.  
 I’m a **developer from Poland**, currently studying **Computer Science** and passionate about **AI-driven automation**, DeFi and crypto.  
 I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglembin.pl), and create modern, responsive websites – [strony.nglembin.pl](https://strony.nglembin.pl).
