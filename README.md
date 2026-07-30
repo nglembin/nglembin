@@ -8,14 +8,12 @@ I also build websites, AI automations, and digital marketing solutions for busin
 
 - Location: Gdańsk, Poland
 - Languages: Polish, English
-- Timezone: Europe/Warsaw (CET / CEST)
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
-- PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [nglembin.pl/](https://nglembin.pl/)
+- Website: [nglembin.pl](https://nglembin.pl/)
 - Instagram: [instagram.com/nglembin/](https://www.instagram.com/nglembin/)
 
 <h2 align="left">Tech Stack:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,pycharm,ps,php,mysql,sqlite,cloudflare,cpp,c,cs,java,bash,unity,blender)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,pycharm,ps,php,mysql,cpp,c,cs,java,bash,unity,blender)
 
 ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
