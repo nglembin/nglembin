@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello!+I'm+Nikodem." alt="Typing SVG" /></a> <br>
 My name is **Nikodem Glembin**, also known as **@nglembin**.  
-I’m a **developer from Poland**, currently studying **Computer Science** and passionate about **AI-driven automation**, DeFi and crypto.  
-I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglembin.pl), and create modern, responsive websites – [strony.nglembin.pl](https://strony.nglembin.pl).
-
+I'm a **tutor, developer, student** and **Project Lead** from Poland.
+I provide online Mathematics and English tutoring through [ekstrakorki.pl](https://ekstrakorki.pl) and [korki.nglembin.pl](https://korki.nglembin.pl).
+I also build websites, AI automations, and digital marketing solutions for businesses through [glembin.pl](glembin.pl).
 
 <h2 align="left">About me:</h2>
 
@@ -12,9 +12,7 @@ I also tutor Mathematics and English – [korki.nglembin.pl](https://korki.nglem
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
 - Website: [nglembin.pl/](https://nglembin.pl/)
-- Reach me: [nglembin.pl/contact.html](https://nglembin.pl/contact.html)
 - Instagram: [instagram.com/nglembin/](https://www.instagram.com/nglembin/)
-- Steam: [steamcommunity.com/id/glmbn/](https://steamcommunity.com/id/glmbn/)
 
 <h2 align="left">Tech Stack:</h2>
 
