@@ -14,6 +14,6 @@ I also build websites, AI automations, and digital marketing solutions for busin
 
 <h2 align="left">Tech Stack:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,php,mysql,cs,java,bash,unity,blender,ps)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,typescript,py,php,mysql,cs,java,bash,unity,blender)
 
 ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
