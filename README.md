@@ -10,6 +10,7 @@ I also build websites, AI automations, and digital marketing solutions for busin
 - Languages: Polish, English
 - Email: [contact@nglembin.pl](mailto:contact@nglembin.pl)
 - Website: [nglembin.pl](https://nglembin.pl/)
+- LinkedIn: [linkedin.com/in/nglembin](https://www.linkedin.com/in/nglembin/) 
 - Instagram: [instagram.com/nglembin/](https://www.instagram.com/nglembin/)
 
 <h2 align="left">Tech Stack:</h2>
